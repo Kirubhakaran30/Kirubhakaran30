@@ -56,14 +56,7 @@ An IoT-based Smart Helmet designed to improve rider safety using smart sensors a
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=KirubhakaranR&show_icons=true&theme=tokyonight" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirubhakaranR&layout=compact&theme=tokyonight" height="170"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=KirubhakaranR&theme=tokyonight"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kirubhakaran30&show_icons=true&theme=github_dark&cache_seconds=1800)
 
 ---
 
